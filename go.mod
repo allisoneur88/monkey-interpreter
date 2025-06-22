@@ -1,3 +1,3 @@
-module github.com/allisoneur88/monkey-interpreter
+module monkey
 
 go 1.24.4
