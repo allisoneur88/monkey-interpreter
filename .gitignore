@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go build
+/monkey-interpreter
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Go module cache
+vendor/
+
